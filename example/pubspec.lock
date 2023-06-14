@@ -29,10 +29,10 @@ packages:
     dependency: transitive
     description:
       name: charset
-      sha256: c72ecf262d7afa6ca9418534aba820ada0e405bba67c21f06905d1c4b0bea525
+      sha256: e8346cf597b6cea278d2d3a29b2d01ed8fb325aad718e70f22b0cb653cb31700
       url: "https://pub.dev"
     source: hosted
-    version: "0.2.4"
+    version: "1.2.0"
   clock:
     dependency: transitive
     description:
@@ -86,10 +86,10 @@ packages:
     dependency: transitive
     description:
       name: intl
-      sha256: "910f85bce16fb5c6f614e117efa303e85a1731bb0081edf3604a2ae6e9a3cc91"
+      sha256: "3bc132a9dbce73a7e4a21a17d06e1878839ffbf975568bc875c60537824b0c4d"
       url: "https://pub.dev"
     source: hosted
-    version: "0.17.0"
+    version: "0.18.1"
   js:
     dependency: transitive
     description:
@@ -203,10 +203,10 @@ packages:
     dependency: transitive
     description:
       name: zxing_lib
-      sha256: f48841552941ea3889d4b4b8fd5386680b7b20c451bef46d35bb1b602523d159
+      sha256: "84f6ec19b04dd54bc0b25c539c7c3567a5f9e872e3feb23763df027a1f855c11"
       url: "https://pub.dev"
     source: hosted
-    version: "0.6.0"
+    version: "0.9.0"
 sdks:
   dart: ">=3.0.0-0 <4.0.0"
   flutter: ">=1.18.0"
